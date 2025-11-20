@@ -63,3 +63,4 @@ System Information script
 <img width="621" height="342" alt="image" src="https://github.com/user-attachments/assets/c7808005-7408-4495-a2fe-f4266b21e53d" />
 
 Function Automation script
+<img width="712" height="580" alt="image" src="https://github.com/user-attachments/assets/c7d66e1a-679e-4665-aea7-3233fc665d12" />
