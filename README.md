@@ -60,4 +60,6 @@ Menu-Driven script
 <img width="572" height="222" alt="image" src="https://github.com/user-attachments/assets/fa4f394b-1cc4-4571-bfb5-cae0c476ea53" />
 
 System Information script
+<img width="621" height="342" alt="image" src="https://github.com/user-attachments/assets/c7808005-7408-4495-a2fe-f4266b21e53d" />
+
 Function Automation script
