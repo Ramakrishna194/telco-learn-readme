@@ -1,3 +1,4 @@
+.,.,.,.,.,., week-2 ,.,.,.,.,.,.,.
 ======= 17th November ===========
 ------- 1-1 ------
 <img width="773" height="658" alt="Screenshot 2025-11-17 171327" src="https://github.com/user-attachments/assets/2c663f5e-d195-47dd-a258-2f69b66a6f1d" />
@@ -47,3 +48,16 @@ pyhton-journalctl
 <img width="1123" height="1020" alt="Screenshot 2025-11-19 164706" src="https://github.com/user-attachments/assets/992a0be3-2a35-4f59-9380-3051303536d1" />
 <img width="1291" height="683" alt="Screenshot 2025-11-19 165207" src="https://github.com/user-attachments/assets/f5752b79-80e2-4a19-b9eb-3fdd0e8e438d" />
 <img width="1572" height="558" alt="Screenshot 2025-11-19 171318" src="https://github.com/user-attachments/assets/8fb97eed-616b-4610-beb9-8c7282f96acb" />
+
+============== 20th November ===========
+File Management script
+<img width="717" height="498" alt="image" src="https://github.com/user-attachments/assets/fe023530-c1bf-47dd-a9d7-b07765e77a2a" />
+
+User input script
+<img width="672" height="375" alt="image" src="https://github.com/user-attachments/assets/54de7357-a595-4d25-bd36-137af07d1526" />
+
+Menu-Driven script
+<img width="572" height="222" alt="image" src="https://github.com/user-attachments/assets/fa4f394b-1cc4-4571-bfb5-cae0c476ea53" />
+
+System Information script
+Function Automation script
