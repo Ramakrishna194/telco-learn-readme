@@ -64,3 +64,13 @@ System Information script
 
 Function Automation script
 <img width="712" height="580" alt="image" src="https://github.com/user-attachments/assets/c7d66e1a-679e-4665-aea7-3233fc665d12" />
+
+================= 24th,November =================
+------- task-1: ping_ip.py ---------
+<img width="842" height="403" alt="image" src="https://github.com/user-attachments/assets/5fd4eebd-d41e-48c2-a195-0ea068fabeed" />
+
+-------- task-2: functions_to_compute_latencies.py -----------
+<img width="587" height="397" alt="image" src="https://github.com/user-attachments/assets/18da0ffd-d8ad-4472-b2bd-a601da35839d" />
+
+----------- task-3: menu_cli_tool.py -----------------
+<img width="867" height="778" alt="image" src="https://github.com/user-attachments/assets/41a1c8b3-728c-4653-bc82-5a8c77086a54" />
